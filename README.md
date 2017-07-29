@@ -1,2 +1,3 @@
 # test
 mytest
+[demo]
