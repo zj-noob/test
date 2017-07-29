@@ -1,3 +1,3 @@
 # test
 mytest
-[demo]
+[demo]https://zj-noob.github.io/test/demo01/index.html
